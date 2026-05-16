@@ -1,12 +1,12 @@
 # Ahmed Youssef 👨‍💻
 
-> Full-Stack Developer | Machine Learning Enthusiast | Data Science Practitioner
+>   Machine Learning Enthusiast | Data Science Practitioner
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate software developer specializing in **Full-Stack Web Development**, **Machine Learning**, and **Data Science**. I excel at building scalable, production-grade applications and solving complex problems with data-driven approaches. Constantly learning, building, and pushing boundaries in tech.
+I'm a passionate software developer specializing in **Machine Learning**, and **Data Science**. I excel at building scalable, production-grade applications and solving complex problems with data-driven approaches. Constantly learning, building, and pushing boundaries in tech.
 
 **📍 Location:** Egypt 🇪🇬 | **💼 Status:** Open to Collaborations & Opportunities
 
